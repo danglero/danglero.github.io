@@ -1,0 +1,27 @@
+tr:hover {
+    background-color: #6c757d40;
+}
+
+.mouse_pointer {
+    cursor: pointer;
+}
+
+.mouse_default {
+    cursor: default;
+}
+
+#food {
+    background-color: red;
+}
+
+#taxes {
+    background-color: green;
+}
+
+#random_expenses {
+    background-color: green;
+}
+
+#savings {
+    background-color: green;
+}
